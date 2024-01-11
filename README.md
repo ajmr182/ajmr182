@@ -2,9 +2,22 @@
 <h1 align="center">Hello, I'm <a href="https://www.linkedin.com/in/amilcar-malaver-rojas-604431225/">Amilcar Malaver</a> 👋</h1>
 </div>
 
+
 <div align="center">
 <img src="https://i.imgur.com/jF0EaAw.gif">
 </div>
+
+ <a href="https://www.linkedin.com/in/amilcar-malaver-rojas-604431225/" target="blank">
+ <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-00f?style=social&logo=Linkedin">
+ </a>
+
+ <a href="mailto:ajmr182@gmail.com" target="blank">
+ <img alt="Static Badge" src="https://img.shields.io/badge/Gmail-00f?style=social&logo=Gmail">
+ </a>
+
+<a href="https://wa.me/51981121807" target="blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/Whatsapp-00f?style=social&logo=Whatsapp">
+</a>
 
 ## About Me
 
